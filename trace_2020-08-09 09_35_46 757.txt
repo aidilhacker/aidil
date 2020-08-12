@@ -1,0 +1,103 @@
+VersionCode: 3100
+VersionName: 6.0.0
+ColorOS Version: UNKNOW
+Mobile MODEL: RMX2030
+Android Version: 10
+Android API: 29
+getNetworkTypeName: mobile
+WindowWidth And WindowHeight: 720*1456
+WindowDensity:2.0
+System's currenTimeMillis: 1596980146846
+TimeZone: libcore.util.ZoneInfo[id="Asia/Makassar",mRawOffset=28800000,mEarliestRawOffset=28656000,mUseDst=false,mDstSavings=0,transitions=4]
+
+2020-08-09 09_04_46 738 / SIMS_MainThreadHandler : reason: 11, timestamp: 1596978286730
+2020-08-09 09_04_46 739 / SIMS_MainThreadHandler : subId: 1, slotIndex: 0
+2020-08-09 09_04_51 741 / ColorPrimarySubManager : colorSetPreferredNetwork, network = 9
+2020-08-09 09_04_51 743 / ColorNetworkUtils : networkMode = 9
+2020-08-09 09_04_51 876 / ColorNetworkUtils : networkMode = 9
+2020-08-09 09_04_52 125 / PrefNetworkRequest : save network mode, command.mPrefNetwork=9
+2020-08-09 09_04_52 130 / ColorNetworkUtils : networkMode = 9
+2020-08-09 09_04_53 194 / PrefNetworkRequest : save network mode, command.mPrefNetwork=9
+2020-08-09 09_04_53 197 / ColorNetworkUtils : networkMode = 9
+2020-08-09 09_18_31 536 / SIMS_MainThreadHandler : reason: 11, timestamp: 1596979111530
+2020-08-09 09_18_31 547 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-09 09_35_32 844 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1596980132844
+2020-08-09 09_35_32 926 / SIMS_MainThreadHandler : reason: 11, timestamp: 1596980132926
+2020-08-09 09_35_32 927 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-09 09_35_35 850 / SIMS_MainThreadHandler : reason: 7, timestamp: 1596980135850
+2020-08-09 09_35_35 850 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 2
+2020-08-09 09_35_35 854 / SIMS_MainThreadHandler : current_primary_slot: 1, current_primary_subId: 2, actived_subids: [2, 0], insert_count: 2
+2020-08-09 09_35_35 866 / SIMS_MainThreadHandler : reason: 10, timestamp: 1596980135866
+2020-08-09 09_35_35 866 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 2
+2020-08-09 09_54_04 227 / SIMS_MainThreadHandler : reason: 11, timestamp: 1596981244225
+2020-08-09 09_54_04 227 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-09 11_59_54 723 / SIMS_MainThreadHandler : reason: 11, timestamp: 1596988794722
+2020-08-09 11_59_54 725 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-09 11_59_54 736 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1596988794735
+2020-08-09 11_59_57 767 / SIMS_MainThreadHandler : reason: 7, timestamp: 1596988797766
+2020-08-09 11_59_57 767 / SIMS_MainThreadHandler : pre_primary_slot: 1, pre_primary_subId: 2
+2020-08-09 11_59_57 779 / SIMS_MainThreadHandler : current_primary_slot: 1, current_primary_subId: 2, actived_subids: [2, 0], insert_count: 2
+2020-08-09 21_12_38 078 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597021958077
+2020-08-09 21_12_38 079 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-09 21_18_14 385 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1597022294384
+2020-08-09 21_18_14 466 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597022294465
+2020-08-09 21_18_14 466 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-09 21_18_17 409 / SIMS_MainThreadHandler : reason: 7, timestamp: 1597022297409
+2020-08-09 21_18_17 410 / SIMS_MainThreadHandler : pre_primary_slot: 1, pre_primary_subId: 2
+2020-08-09 21_18_17 424 / SIMS_MainThreadHandler : current_primary_slot: 1, current_primary_subId: 2, actived_subids: [2, 0], insert_count: 2
+2020-08-09 23_44_02 833 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597031042833
+2020-08-09 23_44_02 836 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-09 23_44_14 480 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1597031054480
+2020-08-09 23_44_14 594 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597031054594
+2020-08-09 23_44_14 598 / SIMS_MainThreadHandler : subId: 1, slotIndex: 0
+2020-08-10 14_03_07 596 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1597039387595
+2020-08-10 14_03_08 446 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597039388446
+2020-08-10 14_03_08 447 / SIMS_MainThreadHandler : subId: 1, slotIndex: 0
+2020-08-10 14_03_09 950 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1597039389949
+2020-08-10 14_03_12 963 / SIMS_MainThreadHandler : reason: 7, timestamp: 1597039392962
+2020-08-10 14_03_12 963 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 1
+2020-08-10 14_03_12 969 / SIMS_MainThreadHandler : current_primary_slot: 0, current_primary_subId: 1, actived_subids: [1, 0], insert_count: 2
+2020-08-10 14_05_09 507 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1597039509507
+2020-08-10 14_05_12 583 / SIMS_MainThreadHandler : reason: 7, timestamp: 1597039512583
+2020-08-10 14_05_12 588 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 1
+2020-08-10 14_05_12 604 / SIMS_MainThreadHandler : current_primary_slot: 0, current_primary_subId: 1, actived_subids: [1, 0], insert_count: 2
+2020-08-11 18_41_43 062 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142503061
+2020-08-11 18_41_43 065 / SIMS_MainThreadHandler : subId: 2, slotIndex: -1
+2020-08-11 18_41_43 176 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142503176
+2020-08-11 18_41_43 177 / SIMS_MainThreadHandler : subId: 2, slotIndex: -1
+2020-08-11 18_42_37 059 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142557059
+2020-08-11 18_42_37 064 / SIMS_MainThreadHandler : subId: 3, slotIndex: 0
+2020-08-11 18_42_37 290 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142557290
+2020-08-11 18_42_37 295 / SIMS_MainThreadHandler : subId: 3, slotIndex: 0
+2020-08-11 18_42_45 617 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1597142565615
+2020-08-11 18_42_48 690 / SIMS_MainThreadHandler : reason: 7, timestamp: 1597142568689
+2020-08-11 18_42_48 690 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 3
+2020-08-11 18_42_48 699 / SIMS_MainThreadHandler : current_primary_slot: 0, current_primary_subId: 3, actived_subids: [3, 0], insert_count: 2
+2020-08-11 18_45_58 720 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142758720
+2020-08-11 18_45_58 721 / SIMS_MainThreadHandler : subId: 3, slotIndex: 0
+2020-08-11 18_46_00 358 / ColorPrimarySubManager : colorSetPreferredNetwork, network = 9
+2020-08-11 18_46_00 358 / ColorNetworkUtils : networkMode = 9
+2020-08-11 18_46_00 375 / ColorNetworkUtils : networkMode = 9
+2020-08-11 18_46_00 405 / PrefNetworkRequest : save network mode, command.mPrefNetwork=9
+2020-08-11 18_46_00 406 / ColorNetworkUtils : networkMode = 9
+2020-08-11 18_46_00 426 / PrefNetworkRequest : save network mode, command.mPrefNetwork=9
+2020-08-11 18_46_00 427 / ColorNetworkUtils : networkMode = 9
+2020-08-11 18_47_34 597 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1597142854596
+2020-08-11 18_47_34 780 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142854780
+2020-08-11 18_47_34 783 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-11 18_47_37 771 / SIMS_MainThreadHandler : reason: 7, timestamp: 1597142857771
+2020-08-11 18_47_37 771 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 2
+2020-08-11 18_47_37 776 / SIMS_MainThreadHandler : current_primary_slot: 1, current_primary_subId: 2, actived_subids: [2, 0], insert_count: 2
+2020-08-11 18_47_37 845 / ColorPrimarySubManager : colorSetPreferredNetwork, network = 9
+2020-08-11 18_47_37 847 / ColorNetworkUtils : networkMode = 9
+2020-08-11 18_47_37 884 / ColorNetworkUtils : networkMode = 0
+2020-08-11 18_47_37 907 / SIMS_MainThreadHandler : reason: 10, timestamp: 1597142857906
+2020-08-11 18_47_37 910 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 2
+2020-08-11 18_47_37 931 / PrefNetworkRequest : save network mode, command.mPrefNetwork=0
+2020-08-11 18_47_37 932 / ColorNetworkUtils : networkMode = 0
+2020-08-11 18_47_37 958 / PrefNetworkRequest : save network mode, command.mPrefNetwork=9
+2020-08-11 18_47_37 960 / ColorNetworkUtils : networkMode = 9
+2020-08-11 18_47_38 050 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142858050
+2020-08-11 18_47_38 051 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
+2020-08-11 18_48_20 810 / SIMS_MainThreadHandler : reason: 11, timestamp: 1597142900809
+2020-08-11 18_48_20 810 / SIMS_MainThreadHandler : subId: 2, slotIndex: 1
